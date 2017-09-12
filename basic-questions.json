@@ -1,0 +1,26 @@
+[
+
+{"frontCard":"Who was the first president of the United States?",
+"backCard": "george washington",
+"fullAnswer": "George Washinton was the first president of the United States."
+},
+
+{"frontCard": "Which cells in the blood do not have a nucleus?",
+  "backCard": "erythrocytes",
+  "fullAnswer": "Erythrocytes are the cells in the blood that do not have a nucleus."
+},
+
+
+{"frontCard":"If the foot is abducted, it is moved in which direction?",
+  "backCard":"outward",
+  "fullAnswer": "If the foot is abducted, it is moved outward."
+
+},
+
+{
+  "frontCard":"Which cranial nerve is related to the sense of smell?",
+  "backCard": "olfactory",
+  "fullAnswer": "The olfactory nerve is the cranial nerve related to the sense of smell."
+}
+
+]

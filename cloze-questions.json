@@ -1,0 +1,18 @@
+[
+{"cloze": "george washington",
+"partial": "was the first president of the United States.",
+"fullAnswer": "George Washington was the first president of the United States."},
+
+{"cloze":"erythrocytes",
+"partial": "are the blood cells that do not have a nucleus.",
+"fullAnswer": "Erythrocytes are the blood cells that do not have a nucleus."},
+
+{"cloze":"abduction",
+"partial": "is the movement of a limb away from the midline of the body.",
+"fullAnswer": "Abduction is the movement of a limb away from the midline of the body."},
+
+{"cloze":"olfactory",
+"partial": "is the cranial nerve related to the sense of smell.",
+"fullAnswer": "The olfactory nerve is the cranial nerve related to the sense of smell."}
+
+]
