@@ -37,18 +37,18 @@ var askQuestions = function (){
     if(userInput === clozeQuestions[counter].cloze){
           console.log("\nGreat job!");
           correctAnswerCount++;
-        }//if
+        }
 
         else{
           console.log("\nNope! Maybe next time!");
-        }//else
+        }
 
   console.log(clozeQuestions[counter].fullAnswer);
   counter++
   askQuestions();
 
-  });//closing then
-} //closing if
+  });
+} 
 
 else{
   console.log("\nGame Over!")
@@ -75,7 +75,7 @@ else{
   });
 }
 
-}; //closing function
+}; 
 
 askQuestions();
 var questionOneCloze = new ClozeCard("George Washington", "was the first president of the United States.");

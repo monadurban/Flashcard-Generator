@@ -18,7 +18,7 @@ var askQuestions = function (){
     {type: "input",
       message: basicQuestions[counter].frontCard,
       name: "question"
-      }//if
+      }
 
 
  ]).then(function(answer){
@@ -28,18 +28,18 @@ var askQuestions = function (){
     if(userInput === basicQuestions[counter].backCard){
           console.log("\nGreat job!");
           correctAnswerCount++;
-        }//if
+        }
 
         else{
           console.log("\nNope! Maybe next time!");
-        }//else
+        }
 
   console.log(basicQuestions[counter].fullAnswer);
   counter++
   askQuestions();
 
-  });//closing then
-} //closing if
+  });
+} 
 
 else{
   console.log("\nGame Over!")
@@ -66,7 +66,7 @@ else{
   });
 }
 
-}; //closing function
+}; 
 
 askQuestions();
 
